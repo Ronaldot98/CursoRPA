@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nj2Igx7TpMN7hio4sr7qhUf8nkdnBRnRK5oTSiKQlnCwj2OcdzZ7pxVAfoOcVhBVps0ARE48IrGWO+CjbYU+Ew==",
+  "dgSpecHash": "Rx8ANOx5wXpf9NK/egwvvKTf3AhPI67G0diZupmX8GaWb1B9aTDaAq+0Z3vGx4hCJ8KotkkvXhivqSmyONH6Ow==",
   "success": true,
   "projectFilePath": "C:\\Users\\Ronal\\Documents\\UiPath\\CursoRPA\\.local\\",
   "expectedPackageFiles": [
+    "C:\\Users\\Ronal\\.nuget\\packages\\bitmiracle.docotic.pdf\\7.5.11645\\bitmiracle.docotic.pdf.7.5.11645.nupkg.sha512",
     "C:\\Users\\Ronal\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\Ronal\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
     "C:\\Users\\Ronal\\.nuget\\packages\\documentformat.openxml\\2.5.0\\documentformat.openxml.2.5.0.nupkg.sha512",
@@ -64,6 +65,7 @@
     "C:\\Users\\Ronal\\.nuget\\packages\\uipath.mail.activities\\1.10.5\\uipath.mail.activities.1.10.5.nupkg.sha512",
     "C:\\Users\\Ronal\\.nuget\\packages\\uipath.ocr.activities\\3.0.0\\uipath.ocr.activities.3.0.0.nupkg.sha512",
     "C:\\Users\\Ronal\\.nuget\\packages\\uipath.ocr.contracts\\2.7.3\\uipath.ocr.contracts.2.7.3.nupkg.sha512",
+    "C:\\Users\\Ronal\\.nuget\\packages\\uipath.pdf.activities\\3.4.0\\uipath.pdf.activities.3.4.0.nupkg.sha512",
     "C:\\Users\\Ronal\\.nuget\\packages\\uipath.platform\\21.4.0\\uipath.platform.21.4.0.nupkg.sha512",
     "C:\\Users\\Ronal\\.nuget\\packages\\uipath.system.activities\\21.4.1\\uipath.system.activities.21.4.1.nupkg.sha512",
     "C:\\Users\\Ronal\\.nuget\\packages\\uipath.telemetry.client\\1.3.18\\uipath.telemetry.client.1.3.18.nupkg.sha512",
